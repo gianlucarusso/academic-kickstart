@@ -1,6 +1,6 @@
 ---
 title: 'WWI and the rise of Fascism in Italy: Evidence from La Vittoria Mutilata'
-summary: This is the WWI paper i am trying to fucking write
+summary: In this paper I quantify the impact of WWI on the rise of Fascism in Italy
 authors:
 # solo paper - Joint with [James Feigenbaum](https://jamesfeigenbaum.github.io)
 date: "2020-04-19"

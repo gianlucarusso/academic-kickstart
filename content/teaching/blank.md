@@ -42,6 +42,3 @@ author = "admin"
 +++
 
 <center>  <img src="/img/dante.jpg" height=40% /> </center>
-
-<!-- <font size="1">
-<div style="text-align: right"> source: [Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA](http://loc.gov/pictures/resource/cph.3g11019/) </div> </font>  -->

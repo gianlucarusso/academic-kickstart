@@ -25,6 +25,16 @@ image:
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+
+links:
+  - icon_pack: fas
+    icon: file-pdf
+    name: 'Pdf'
+    url: ''
+  - icon_pack: fas
+    icon: broadcast-tower
+    name: 'Radio Appendix'
+    url: ''
 ---
 
 ## Abstract
