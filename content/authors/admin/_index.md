@@ -76,8 +76,8 @@ email: ""
 # - Researchers
 # - Visitors
 ---
-Welcome to my website! I am a postdoctoral fellow at Universitat Pompeu Fabra working with [Maria Petrova](https://sites.google.com/site/mariapetrovaphd/) under the ERC grant EXTREME *"The Rise and Fall of Populism and Extremism"*.
+Welcome to my website! Starting September I will be a postdoctoral fellow at Universitat Pompeu Fabra working with [Maria Petrova](https://sites.google.com/site/mariapetrovaphd/) under her ERC grant called EXTREME *"The Rise and Fall of Populism and Extremism"*.
 
 I hold a PhD in Economics from Boston University where I graduated in May 2020.
 
-My **research interests** are in Economic History, Political Economy and Applied Microeconomics.
+In my research I use historical data and historical natural experiment to answer questions from the political economy and development literature.

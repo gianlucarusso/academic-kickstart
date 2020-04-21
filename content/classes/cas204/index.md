@@ -1,7 +1,7 @@
 ---
 title: 'CAS EC 204 Empirical Economics'
 subtitle: ''
-summary: Second course in the introductory level sequence in empirical economic analysis.
+summary: Instructor for the second level course in the introductory level sequence of empirical economics.
 
 featured: false
 draft: false
