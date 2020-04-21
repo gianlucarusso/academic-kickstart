@@ -30,7 +30,7 @@ links:
   - icon_pack: fas
     icon: file-pdf
     name: 'Pdf'
-    url: ''
+    url: 'https://gianlucarusso.github.io/gianluca_russo_JMP.pdf'
   - icon_pack: fas
     icon: broadcast-tower
     name: 'Radio Appendix'
