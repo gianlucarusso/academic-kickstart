@@ -1,0 +1,35 @@
+---
+title: 'Regulating Child Labor: Evidence from the US Progressive Era'
+subtitle: ''
+summary: This is a paper about child labor that I am trying to write with JJF.
+authors:
+- Joint with [James Feigenbaum](https://jamesfeigenbaum.github.io)
+tags:
+- Working Paper
+- American Economic History
+
+date: "2020-04-01"
+featured: false
+draft: true
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+image:
+  placement: 1
+  caption: 'Image credit: [**DONT KNOW**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  focal_point: ""
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+---
+
+
+## Abstract
+From 1880 to 1920, child labor in the United States fell dramatically. At the same time, most states passed laws regulating minimum working ages. Past quantitative work based on census samples have yielded mixed results on the efficacy of these laws and historians have questioned whether the politically powerful employers of children would allow such regulation if child labor was in high demand. Turning to the newly-digitized complete count census data from 1880, 1900, 1910, 1920, and 1930, we find large effects of child labor laws on child labor. While the laws reduced labor from boys and girls in equal measure, the laws did had differential effects, binding in urban areas not rural and especially in the largest cities and more for the children of foreign-born parents. Children with parents working in manufacturing and textiles were especially affected by the labor restrictions. In contrast to the reduction of labor supply among white children, child labor laws had limited effects on the odds of African American boys or girls working.
