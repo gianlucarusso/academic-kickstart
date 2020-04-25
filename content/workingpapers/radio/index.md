@@ -1,7 +1,7 @@
 ---
 title: 'Mass Media and Cultural Assimilation: Broadcasting the American Dream on Radio'
 subtitle:
-summary: This is my JMP where I show that access to mass media assimilates people
+summary: How does media shape identity? I show that access to radio networks affected American naming patterns increasing the use of popular white names
 authors:
 # - admin
 tags:
@@ -34,7 +34,7 @@ links:
   - icon_pack: fas
     icon: broadcast-tower
     name: 'Radio Appendix'
-    url: ''
+    url: 'https://gianlucarusso.github.io/gianlucarusso_radio_appendix.pdf'
 ---
 
 ## Abstract

@@ -1,6 +1,6 @@
 ---
 title: 'WWI and the rise of Fascism in Italy: Evidence from La Vittoria Mutilata'
-summary: In this paper I quantify the impact of WWI on the rise of Fascism in Italy
+summary: In this paper I analyze the role of WWI on the rise of Fascism in Italy
 authors:
 # solo paper - Joint with [James Feigenbaum](https://jamesfeigenbaum.github.io)
 date: "2020-04-19"
@@ -14,7 +14,7 @@ tags:
 
 image:
   placement: 1
-  caption: 'Image credit: [**Need to figure out**](https://unsplash.com/photos/OGZtQF8iC0g)'
+  caption: ''
   focal_point: ""
   preview_only: false
   #date: "2016-04-20T00:00:00Z"

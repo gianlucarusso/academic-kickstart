@@ -1,7 +1,7 @@
 ---
 title: 'Regulating Child Labor: Evidence from the US Progressive Era'
 subtitle: ''
-summary: This is a paper about child labor that I am trying to write with JJF.
+summary: In this paper we show that US child labor laws did reduce child labor rates.
 authors:
 - Joint with [James Feigenbaum](https://jamesfeigenbaum.github.io)
 tags:
@@ -18,7 +18,7 @@ draft: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 1
-  caption: 'Image credit: [**DONT KNOW**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Photo by Lewis Hine'
   focal_point: ""
   preview_only: false
 
@@ -34,7 +34,7 @@ links:
     icon: file-pdf
     name: 'Pdf'
     url: ''
-    
+
 ---
 
 
