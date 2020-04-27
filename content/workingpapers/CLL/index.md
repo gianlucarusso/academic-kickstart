@@ -1,7 +1,7 @@
 ---
 title: 'Regulating Child Labor: Evidence from the US Progressive Era'
 subtitle: ''
-summary: In this paper we show that US child labor laws did reduce child labor rates.
+summary: In this paper, we show that US child labor laws did reduce child labor rates
 authors:
 - Joint with [James Feigenbaum](https://jamesfeigenbaum.github.io)
 tags:
