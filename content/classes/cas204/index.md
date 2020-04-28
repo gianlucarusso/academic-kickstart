@@ -12,7 +12,7 @@ links:
   - icon_pack: fas
     icon: file-pdf
     name: 'Syllabus'
-    url: 'https://gianlucarusso.github.io/JMP/Syll_EC204_SMR2_2019.pdf'
+    url: 'https://gianlucarusso.github.io/Syll_EC204_SMR2_2019.pdf'
 ---
 
 I have designed and taught EC 204 at Boston University as an Instructor during summer 2018 and summer 2019. The class focuses on the basics of linear regression analysis and hypothesis testing.
