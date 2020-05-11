@@ -1,5 +1,5 @@
 ---
-title: 'WWI and the rise of Fascism in Italy: Evidence from La Vittoria Mutilata'
+title: 'WWI and the rise of Fascism in Italy'
 summary: In this paper, I analyze the role of WWI on the rise of Fascism in Italy
 authors:
 # solo paper - Joint with [James Feigenbaum](https://jamesfeigenbaum.github.io)
