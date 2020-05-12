@@ -1,9 +1,10 @@
 ---
 title: 'WWI and the rise of Fascism in Italy'
+subtitle:
 summary: In this paper, I analyze the role of WWI on the rise of Fascism in Italy
 authors:
 # solo paper - Joint with [James Feigenbaum](https://jamesfeigenbaum.github.io)
-date: "2020-04-19"
+date: "2020-05-12"
 tags:
 - Working Paper
 - Italian Economic History
@@ -30,10 +31,15 @@ image:
   projects: []
 
 links:
+  # - icon_pack: fas
+  #   icon: file-pdf
+  #   name: 'Pdf'
+  #   url: 'https://gianlucarusso.github.io/wwi_fascism_russog.pdf'
   - icon_pack: fas
     icon: file-pdf
-    name: 'Pdf'
-    url: 'https://gianlucarusso.github.io/wwi_fascism_russog.pdf'
+    name: 'IED working paper'
+    url: 'http://www.bu.edu/econ/files/2020/05/wwi_fascism_russog_IED.pdf'
+
 ---
 
 ## Abstract

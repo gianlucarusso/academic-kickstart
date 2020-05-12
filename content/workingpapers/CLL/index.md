@@ -29,11 +29,11 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 
-links:
-  - icon_pack: fas
-    icon: file-pdf
-    name: 'Pdf'
-    url: ''
+# links:
+#   - icon_pack: fas
+#     icon: file-pdf
+#     name: 'Pdf'
+#     url: ''
 
 ---
 
