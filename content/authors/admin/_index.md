@@ -47,17 +47,17 @@ social:
   icon_pack: fas
   link: 'mailto:russog@bu.edu'
 
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.co.uk/
 
 - icon: github
   icon_pack: fab
   link: https://github.com/gianlucarusso
 
-- icon: skype
-  icon_pack: fab
-  link: gianluca.prs
+# - icon: skype
+#   icon_pack: fab
+#   link: gianluca.prs
 
 - icon: twitter
   icon_pack: fab

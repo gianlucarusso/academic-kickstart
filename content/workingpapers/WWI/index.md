@@ -38,7 +38,7 @@ links:
   - icon_pack: fas
     icon: file-pdf
     name: 'IED working paper'
-    url: 'http://www.bu.edu/econ/files/2020/05/wwi_fascism_russog_IED.pdf'
+    url: 'http://www.bu.edu/econ/files/2020/05/wwi_fascism_russog_IED-1.pdf'
 
 ---
 
