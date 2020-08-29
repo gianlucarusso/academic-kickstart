@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
 title = "Data Projects"
-subtitle = "This is a repository with details on data I have reconstructed or on useful links to historical data sources."
+subtitle = "This is a repository with details on data I have reconstructed or links to historical data sources."
 
 [content]
   # Page type to display. E.g. project.

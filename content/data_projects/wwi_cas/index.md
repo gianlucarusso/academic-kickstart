@@ -1,5 +1,5 @@
 ---
-title: The Italian World War One Fatality List
+title: The Italian WWI Fatality List
 summary: It took 38 years to assemble the list of Italian fatalities. Here is where to find it
 tags:
 - Italian Economic History

@@ -1,10 +1,11 @@
 ---
-title: 'WWI and the rise of Fascism in Italy'
+title: 'War, Socialism and the Rise of Fascism: An Empirical Exploration'
 subtitle:
-summary: In this paper, I analyze the role of WWI on the rise of Fascism in Italy
+summary: A new draft joint with new coauthors is coming soon!
 authors:
-# solo paper - Joint with [James Feigenbaum](https://jamesfeigenbaum.github.io)
-date: "2020-05-12"
+- Joint with [Daron Acemoglu](https://economics.mit.edu/faculty/acemoglu), [Giuseppe De Feo](https://www2.le.ac.uk/departments/business/people/academic/giuseppe-de-feo) and [Giacomo De Luca](https://sites.google.com/a/york.ac.uk/deluca/)
+
+date: "2020-08-29"
 tags:
 - Working Paper
 - Italian Economic History
@@ -36,17 +37,25 @@ links:
   #   name: 'Pdf'
   #   url: 'https://gianlucarusso.github.io/wwi_fascism_russog.pdf'
   - icon_pack: fas
-    icon: file-pdf
-    name: 'IED working paper'
-    url: 'http://www.bu.edu/econ/files/2020/05/wwi_fascism_russog_IED-1.pdf'
+    # icon: file-pdf
+    icon: radiation
+    name: 'Draft Coming Soon'
+    url: ''
 
 ---
 
-## Abstract
+<!-- ## Abstract -->
 
-One of the key steps that allowed Mussolini to become the Italian *Duce* was the victory in the 1924 national elections.
-I study the impact of World War I on Mussolini's electoral success. I reconstruct the military death rate for the universe of Italian municipalities, which is matched to municipal level voting in the 1924 election.
-Controlling for the number of military drafted in an Italian municipality, variation in the share of fatalities is induced by military events exogenous to municipality characteristics that could simultaneously affect support for Fascism.
-I find that a higher share of fatalities increases the vote share for Fascism. More than half of the increase in the vote share for Mussolini is matched by a decrease in the vote share of the Socialist party.
-I decompose my analysis by the intensity of the fatality rate to show persuasive evidence that the number of fatalities interacted positively with the number of veterans back from the frontline. I show that the effect of fatalities is driven by municipalities that in 1921 had above median vote shares for the Socialist party.
-This is consistent with historical narratives arguing that the initial rise of Mussolini was facilitated and acclaimed by the "red menace", i.e. the fear of a Socialist revolution in Italy.
+<!-- The recent ascent of right-wing populist movements in many countries has rekindled interest in understanding the causes of the rise of Fascism in
+inter-war years. In this paper, we argue that there was a strong link
+between the surge of support for the Socialist Party after World War I and
+the subsequent emergence of Fascism in Italy. We first develop a source of
+variation in Socialist support across Italian municipalities in the 1919
+election based on war casualties from the area. We show that these
+casualties are unrelated to a battery of political, economic and social
+variables before the war and had a major impact on Socialist support (partly
+because the Socialists were the main anti-war political movement). Our main
+result is that this boost to Socialist support (that is 'exogenous' to the prior political leaning of the municipality) led to greater local Fascist activity as measured by local party branches and Fascist political violence (squadrismo), and to significantly larger vote share of the Fascist Party in the 1924 election. We document that the increase in the vote share of the Fascist Party was not
+at the expense of the Socialist Party and instead came from right-wing
+parties, thus supporting our interpretation that center-right and right-wing
+voters coalesced around the Fascist Party because of the 'red scare'. We also show that the veterans did not consistently support the Fascist Party and there is no evidence for greater nationalist sentiment in areas with more casualties. We provide evidence that landowner associations and greater presence of local elites played an important role in the rise of Fascism. Finally, we find greater likelihood of Jewish deportations in 1943-45 and lower vote share for Christian Democrats after WWII in areas with greater early Fascist activity. -->
