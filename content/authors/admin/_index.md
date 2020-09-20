@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:russog@bu.edu'
+  link: 'mailto:gianluca.russo@upf.edu'
 
 # - icon: google-scholar
 #   icon_pack: ai
@@ -76,7 +76,7 @@ email: ""
 # - Researchers
 # - Visitors
 ---
-Welcome to my website! Starting September I will be a postdoctoral fellow at Universitat Pompeu Fabra working with [Maria Petrova](https://sites.google.com/site/mariapetrovaphd/) under her ERC grant EXTREME *"The Rise and Fall of Populism and Extremism"*.
+Welcome to my website! I am a postdoctoral fellow at Universitat Pompeu Fabra working with [Maria Petrova](https://sites.google.com/site/mariapetrovaphd/) under her ERC grant EXTREME *"The Rise and Fall of Populism and Extremism"*.
 
 I hold a PhD in Economics from Boston University where I graduated in May 2020.
 
