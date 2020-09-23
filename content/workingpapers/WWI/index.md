@@ -1,7 +1,7 @@
 ---
 title: 'War, Socialism and the Rise of Fascism: An Empirical Exploration'
 subtitle:
-summary: A new draft joint with new coauthors is coming soon!
+summary: We argue that World War One and the surge of support for the Socialist party have a lot to do with the rise of Fascism in Italy
 authors:
 - Joint with [Daron Acemoglu](https://economics.mit.edu/faculty/acemoglu), [Giuseppe De Feo](https://www2.le.ac.uk/departments/business/people/academic/giuseppe-de-feo) and [Giacomo De Luca](https://sites.google.com/a/york.ac.uk/deluca/)
 
@@ -32,21 +32,17 @@ image:
   projects: []
 
 links:
-  # - icon_pack: fas
-  #   icon: file-pdf
-  #   name: 'Pdf'
-  #   url: 'https://gianlucarusso.github.io/wwi_fascism_russog.pdf'
   - icon_pack: fas
-    # icon: file-pdf
-    icon: radiation
-    name: 'Draft Coming Soon'
-    url: ''
+    icon: file-pdf
+    # icon: radiation
+    name: 'NBER WP'
+    url: 'https://gianlucarusso.github.io/w27854.pdf'
 
 ---
 
-<!-- ## Abstract -->
+## Abstract
 
-<!-- The recent ascent of right-wing populist movements in many countries has rekindled interest in understanding the causes of the rise of Fascism in
+The recent ascent of right-wing populist movements in many countries has rekindled interest in understanding the causes of the rise of Fascism in
 inter-war years. In this paper, we argue that there was a strong link
 between the surge of support for the Socialist Party after World War I and
 the subsequent emergence of Fascism in Italy. We first develop a source of
@@ -58,4 +54,4 @@ because the Socialists were the main anti-war political movement). Our main
 result is that this boost to Socialist support (that is 'exogenous' to the prior political leaning of the municipality) led to greater local Fascist activity as measured by local party branches and Fascist political violence (squadrismo), and to significantly larger vote share of the Fascist Party in the 1924 election. We document that the increase in the vote share of the Fascist Party was not
 at the expense of the Socialist Party and instead came from right-wing
 parties, thus supporting our interpretation that center-right and right-wing
-voters coalesced around the Fascist Party because of the 'red scare'. We also show that the veterans did not consistently support the Fascist Party and there is no evidence for greater nationalist sentiment in areas with more casualties. We provide evidence that landowner associations and greater presence of local elites played an important role in the rise of Fascism. Finally, we find greater likelihood of Jewish deportations in 1943-45 and lower vote share for Christian Democrats after WWII in areas with greater early Fascist activity. -->
+voters coalesced around the Fascist Party because of the 'red scare'. We also show that the veterans did not consistently support the Fascist Party and there is no evidence for greater nationalist sentiment in areas with more casualties. We provide evidence that landowner associations and greater presence of local elites played an important role in the rise of Fascism. Finally, we find greater likelihood of Jewish deportations in 1943-45 and lower vote share for Christian Democrats after WWII in areas with greater early Fascist activity.
