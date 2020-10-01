@@ -29,7 +29,7 @@ projects: []
 links:
   - icon_pack: fas
     icon: file-pdf
-    name: 'Pdf'
+    name: 'Working Paper'
     url: 'https://gianlucarusso.github.io/gianlucarusso_JMP.pdf'
   - icon_pack: fas
     icon: broadcast-tower

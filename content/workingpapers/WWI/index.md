@@ -5,7 +5,7 @@ summary: We argue that World War One and the surge of support for the Socialist 
 authors:
 - Joint with [Daron Acemoglu](https://economics.mit.edu/faculty/acemoglu), [Giuseppe De Feo](https://www2.le.ac.uk/departments/business/people/academic/giuseppe-de-feo) and [Giacomo De Luca](https://sites.google.com/a/york.ac.uk/deluca/)
 
-date: "2020-08-29"
+date: "2020-09-28"
 tags:
 - Working Paper
 - Italian Economic History
@@ -35,7 +35,7 @@ links:
   - icon_pack: fas
     icon: file-pdf
     # icon: radiation
-    name: 'NBER WP'
+    name: 'NBER WP #27854'
     url: 'https://gianlucarusso.github.io/w27854.pdf'
 
 ---
