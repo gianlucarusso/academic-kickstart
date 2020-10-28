@@ -1,7 +1,7 @@
 ---
 title: 'War, Socialism and the Rise of Fascism: An Empirical Exploration'
 subtitle:
-summary: We argue that World War One and the surge of support for the Socialist party have a lot to do with the rise of Fascism in Italy
+summary: We revisit the rise of Fascism in Italy and explore the link between the threat of socialism and Mussolini’s rise to power. We find a strong association between the Red Scare in Italy and the subsequent local support for the Fascist Party in the early 1920s
 authors:
 - Joint with [Daron Acemoglu](https://economics.mit.edu/faculty/acemoglu), [Giuseppe De Feo](https://www2.le.ac.uk/departments/business/people/academic/giuseppe-de-feo) and [Giacomo De Luca](https://sites.google.com/a/york.ac.uk/deluca/)
 
@@ -37,6 +37,10 @@ links:
     # icon: radiation
     name: 'NBER WP #27854'
     url: 'https://gianlucarusso.github.io/w27854.pdf'
+  - icon_pack: fas
+    icon: bullhorn
+    name: 'VoxEU column'
+    url: 'https://voxeu.org/article/revisiting-rise-italian-fascism'
 
 ---
 

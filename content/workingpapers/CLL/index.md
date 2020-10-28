@@ -32,7 +32,7 @@ projects: []
 links:
   - icon_pack: fas
     icon: file-pdf
-    name: 'Pdf'
+    name: 'Working Paper'
     url: 'https://gianlucarusso.github.io/cll_draft_may20.pdf'
 
 ---
