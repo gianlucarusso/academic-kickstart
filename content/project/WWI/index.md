@@ -1,14 +1,18 @@
 ---
-title: 'War, Socialism and the Rise of Fascism: An Empirical Exploration'
-subtitle:
-summary: We revisit the rise of Fascism in Italy and explore the link between the threat of socialism and Mussolini’s rise to power. We find a strong association between the Red Scare in Italy and the subsequent local support for the Fascist Party in the early 1920s
+title: 'War, Socialism and the Rise of Fascism: An Empirical Exploration (2020)'
+subtitle: <i class="far  fa-file-pdf"></i> [Link to NBER Working Paper](https://gianlucarusso.github.io/w27854.pdf) <br>
+
+#We revisit the rise of Fascism in Italy and explore the link between the threat of socialism and Mussolini’s rise to power. We find a strong association between the Red Scare in Italy and the subsequent local support for the Fascist Party in the early 1920s
+#Reject and Resubmit at QJE <br>
+summary: <i class="far  fa-file-pdf"></i> [Link to NBER Working Paper](https://gianlucarusso.github.io/w27854.pdf) <br>
+
 authors:
 - Joint with [Daron Acemoglu](https://economics.mit.edu/faculty/acemoglu), [Giuseppe De Feo](https://www2.le.ac.uk/departments/business/people/academic/giuseppe-de-feo) and [Giacomo De Luca](https://sites.google.com/a/york.ac.uk/deluca/)
 
 date: "2020-09-28"
-tags:
-- Working Paper
-- Italian Economic History
+#tags:
+#- Working Paper
+#- Italian Economic History
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
@@ -22,7 +26,7 @@ image:
   #date: "2016-04-20T00:00:00Z"
   lastmod: "2020-04-19"
   featured: false
-  draft: true
+  draft: false
 
   # Projects (optional).
   #   Associate this post with one or more of your projects.
@@ -32,15 +36,22 @@ image:
   projects: []
 
 links:
-  - icon_pack: fas
-    icon: file-pdf
-    # icon: radiation
-    name: 'NBER WP #27854'
-    url: 'https://gianlucarusso.github.io/w27854.pdf'
+  #- icon_pack: fas
+  #  icon: file-pdf
+  #  name: 'NBER WP #27854'
+  #  url: 'https://gianlucarusso.github.io/w27854.pdf'
   - icon_pack: fas
     icon: bullhorn
-    name: 'VoxEU column'
+    name: 'VoxEU'
     url: 'https://voxeu.org/article/revisiting-rise-italian-fascism'
+  - icon_pack: fas
+    icon: bullhorn
+    name: 'The Economist'
+    url: 'https://www.economist.com/finance-and-economics/2021/01/21/what-is-the-link-between-economic-crises-and-political-ruptures'
+  #- icon_pack: fas
+  #  icon: podcast
+  #  name: 'A Correction Team Podcast'
+  #  url: 'https://www.acorrectionpodcast.com/phonyeconomy'
 
 ---
 

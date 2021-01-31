@@ -1,13 +1,14 @@
 ---
-title: 'Mass Media and Cultural Assimilation: Broadcasting the American Dream on Radio'
-subtitle:
-summary: How does media shape identity? I show that access to radio networks affected American naming patterns increasing the use of popular white names
+title: 'Mass Media and Cultural Assimilation: Broadcasting the American Dream on Radio (2020)'
+subtitle:  <i class="far  fa-file-pdf"></i> [Link to Working Paper](https://gianlucarusso.github.io/gianlucarusso_JMP.pdf) <br>
+summary: <i class="far  fa-file-pdf"></i> [Link to Working Paper](https://gianlucarusso.github.io/gianlucarusso_JMP.pdf) (Under Revision) 
+
 authors:
 # - admin
-tags:
-  - Working Paper
-  - American Economic History
-categories: []
+#tags:
+#  - Working Paper
+#  - American Economic History
+#categories: []
 date: "2020-04-05"
 featured: false
 draft: false
@@ -27,10 +28,10 @@ image:
 projects: []
 
 links:
-  - icon_pack: fas
-    icon: file-pdf
-    name: 'Working Paper'
-    url: 'https://gianlucarusso.github.io/gianlucarusso_JMP.pdf'
+  #- icon_pack: fas
+  #  icon: file-pdf
+  #  name: 'Working Paper'
+  #  url: 'https://gianlucarusso.github.io/gianlucarusso_JMP.pdf'
   - icon_pack: fas
     icon: broadcast-tower
     name: 'Radio Appendix'

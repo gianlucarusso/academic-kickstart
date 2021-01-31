@@ -46,7 +46,7 @@ author = "admin"
 **Voting Behavior and Mass Media: Radio Networks in the United States, 1925-1940**
 
 
-**Emigration and Long-Run Economic Development: The Effects of the Italian Mass Migration** (Joint with Nicola Fontana, Marco Manacorda and Marco Tabellini)
+**Outmigration and Economic Development: Evidence from the Italian Mass Migration** (Joint with Nicola Fontana, Marco Manacorda and Marco Tabellini)
 
 
 
