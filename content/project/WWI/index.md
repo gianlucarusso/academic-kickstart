@@ -46,8 +46,14 @@ links:
     url: 'https://voxeu.org/article/revisiting-rise-italian-fascism'
   - icon_pack: fas
     icon: bullhorn
+    name: 'Marginal Revolution'
+    url: 'https://marginalrevolution.com/marginalrevolution/2020/10/the-roots-of-fascism-in-italy-namely-communism.html'
+  - icon_pack: fas
+    icon: bullhorn
     name: 'The Economist'
     url: 'https://www.economist.com/finance-and-economics/2021/01/21/what-is-the-link-between-economic-crises-and-political-ruptures'
+
+
   #- icon_pack: fas
   #  icon: podcast
   #  name: 'A Correction Team Podcast'
