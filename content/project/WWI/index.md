@@ -52,12 +52,10 @@ links:
     icon: bullhorn
     name: 'The Economist'
     url: 'https://www.economist.com/finance-and-economics/2021/01/21/what-is-the-link-between-economic-crises-and-political-ruptures'
-
-
-  #- icon_pack: fas
-  #  icon: podcast
-  #  name: 'A Correction Team Podcast'
-  #  url: 'https://www.acorrectionpodcast.com/phonyeconomy'
+  - icon_pack: fas
+    icon: podcast
+    name: 'A Correction Team Podcast'
+    url: 'https://www.acorrectionpodcast.com/phonyeconomy'
 
 ---
 
