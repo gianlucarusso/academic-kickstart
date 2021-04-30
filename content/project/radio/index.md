@@ -1,7 +1,9 @@
 ---
-title: 'Mass Media and Cultural Assimilation: Broadcasting the American Dream on Radio (2020)'
-subtitle:  <i class="far  fa-file-pdf"></i> [Link to Working Paper](https://gianlucarusso.github.io/gianlucarusso_JMP.pdf) <br>
-summary: <i class="far  fa-file-pdf"></i> [Link to Working Paper](https://gianlucarusso.github.io/gianlucarusso_JMP.pdf) (Under Revision) 
+title: 'Media and Assimilation: Evidence from the Golden Age of Radio (2021)'
+subtitle:   (Under Revision)
+#<i class="far  fa-file-pdf"></i> [Link to Working Paper](https://gianlucarusso.github.io/gianlucarusso_JMP.pdf) <br>
+summary:  (Under Revision)
+#  <i class="far  fa-file-pdf"></i> [Link to Working Paper](https://gianlucarusso.github.io/gianlucarusso_JMP.pdf) (Under Revision)
 
 authors:
 # - admin
@@ -9,7 +11,7 @@ authors:
 #  - Working Paper
 #  - American Economic History
 #categories: []
-date: "2020-04-05"
+date: "2021-03-15"
 featured: false
 draft: false
 
@@ -40,4 +42,9 @@ links:
 
 ## Abstract
 
-Does media shape culture? I leverage the expansion of radio networks in the United States to identify the impact of access to mass media on cultural assimilation and homogenization. I reconstruct radio network access via a signal propagation model suitable to AM radio, the only radio technology available at the time. I determine what radio channels were available to American households by feeding the propagation model with newly digitized data on the universe of transmitting stations during the interwar period. I combine radio network coverage with several measures of cultural change based on naming patterns for children. Exploiting exogenous variation in radio signal reception induced by soil characteristics and stations' tower growth over time, I provide evidence that network access homogenized American culture. Homogenization occurred through the assimilation of white immigrant and black households towards mainstream white native culture. Assimilation is strongest for immigrant families: foreign parents were six percent more likely to name their sons using popular white names after network access. Focusing on names from baseball players, I suggest that aspirational naming is a key mechanism to explain certain features of the results. While foreign households picked from the full distribution of baseball names, native families chose names exclusively from the most successful, those featured in the All-Star games. Thus, in addition to diffusing information, the radio has subtler effects, increasing the likelihood of "naming for success"
+In this paper, I argue that exposure to mainstream mass media facilitates immigrants' assimilation. I exploit the rise and expansion of radio broadcasting in the United States after the Age of Mass Migration ended to identify the effect of radio exposure on immigrants' assimilation.
+I reconstruct radio signal strength and years of exposure to radio via a novel propagation model suitable to AM radio, the only radio technology available at the time.
+Exploiting the US full count census, I follow pseudo-cohorts of immigrants that are introduced to radio networks and study their naming and wedding patterns.
+I find that radio networks had a strong effect on immigrants' assimilation.
+Cohorts exposed longer to radio networks were more likely to marry US born citizens from US born parents. Children of immigrant households exposed to larger network signal had names that were distinctively less foreign.
+Focusing on names from baseball players, I suggest that aspiration is a key mechanism to explain why radio promoted assimilation. Immigrant households named children only after players that performed particularly well during the season, suggesting they were ''naming for success.''

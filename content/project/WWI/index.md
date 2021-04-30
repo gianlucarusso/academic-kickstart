@@ -9,7 +9,7 @@ summary: <i class="far  fa-file-pdf"></i> [Link to NBER Working Paper](https://g
 authors:
 - Joint with [Daron Acemoglu](https://economics.mit.edu/faculty/acemoglu), [Giuseppe De Feo](https://www2.le.ac.uk/departments/business/people/academic/giuseppe-de-feo) and [Giacomo De Luca](https://sites.google.com/a/york.ac.uk/deluca/)
 
-date: "2020-09-28"
+date: "2020-12-15"
 #tags:
 #- Working Paper
 #- Italian Economic History

@@ -15,15 +15,15 @@ role: "Postdoctoral Fellow"
 
 # Organizations/Affiliations
 organizations:
-- name: "Universitat Pompeu Fabra"
+- name: "Universitat Pompeu Fabra and Barcelona GSE"
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Postdoc at Pompeu Fabra working on Economic History and Political Economy
+bio: I am a Postdoc at Pompeu Fabra and the Barcelona GSE working on  Political Economy and Economic History
 
 interests:
-- Economic History
 - Political Economy
+- Economic History
 - Applied Microeconomics
 
 education:
@@ -76,8 +76,6 @@ email: ""
 # - Researchers
 # - Visitors
 ---
-Welcome to my website! I am a postdoctoral fellow at Universitat Pompeu Fabra working with [Maria Petrova](https://sites.google.com/site/mariapetrovaphd/) under her ERC grant EXTREME *"The Rise and Fall of Populism and Extremism"*.
+Welcome to my website! I am a postdoctoral fellow at Universitat Pompeu Fabra and Barcelona GSE working with [Maria Petrova](https://sites.google.com/site/mariapetrovaphd/) under her ERC grant EXTREME *"The Rise and Fall of Populism and Extremism"*.
 
 I hold a PhD in Economics from Boston University where I graduated in May 2020.
-
-In my research I use historical data and historical natural experiments to answer questions from the political economy and development literature.
