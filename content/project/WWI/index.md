@@ -1,15 +1,33 @@
 ---
-title: 'War, Socialism and the Rise of Fascism: An Empirical Exploration (2020)'
-subtitle: <i class="far  fa-file-pdf"></i> [Link to NBER Working Paper](https://gianlucarusso.github.io/w27854.pdf) <br>
-
-#We revisit the rise of Fascism in Italy and explore the link between the threat of socialism and Mussolini’s rise to power. We find a strong association between the Red Scare in Italy and the subsequent local support for the Fascist Party in the early 1920s
-#Reject and Resubmit at QJE <br>
-summary: <i class="far  fa-file-pdf"></i> [Link to NBER Working Paper](https://gianlucarusso.github.io/w27854.pdf) <br>
-
+title: 'War, Socialism and the Rise of Fascism: An Empirical Exploration (2021)'
+subtitle: <i class="far  fa-file-pdf"></i> [Link to NBER Working Paper](https://gianlucarusso.github.io/w27854.pdf)
+summary: <b> Accepted at _Quarterly Journal of Economics_ <br> <i class="far  fa-file-pdf"></i> [Link to NBER Working Paper](https://gianlucarusso.github.io/w27854.pdf)
 authors:
 - Joint with [Daron Acemoglu](https://economics.mit.edu/faculty/acemoglu), [Giuseppe De Feo](https://www2.le.ac.uk/departments/business/people/academic/giuseppe-de-feo) and [Giacomo De Luca](https://sites.google.com/a/york.ac.uk/deluca/)
 
-date: "2020-12-15"
+links:
+  - icon_pack: fas
+    icon: bullhorn
+    name: 'VoxEU'
+    url: 'https://voxeu.org/article/revisiting-rise-italian-fascism'
+  - icon_pack: fas
+    icon: bullhorn
+    name: 'Marginal Revolution'
+    url: 'https://marginalrevolution.com/marginalrevolution/2020/10/the-roots-of-fascism-in-italy-namely-communism.html'
+  - icon_pack: fas
+    icon: bullhorn
+    name: 'The Economist'
+    url: 'https://www.economist.com/finance-and-economics/2021/01/21/what-is-the-link-between-economic-crises-and-political-ruptures'
+  - icon_pack: fas
+    icon: bullhorn
+    name: 'Il Domani (In Italian)'
+    url: 'https://www.editorialedomani.it/politica/partito-fascista-fondazione-kho25q5r'
+  - icon_pack: fas
+    icon: podcast
+    name: 'A Correction Team Podcast'
+    url: 'https://www.acorrectionpodcast.com/phonyeconomy'
+
+date: "2021-11-01"
 #tags:
 #- Working Paper
 #- Italian Economic History
@@ -35,42 +53,10 @@ image:
   #   Otherwise, set `projects = []`.
   projects: []
 
-links:
-  #- icon_pack: fas
-  #  icon: file-pdf
-  #  name: 'NBER WP #27854'
-  #  url: 'https://gianlucarusso.github.io/w27854.pdf'
-  - icon_pack: fas
-    icon: bullhorn
-    name: 'VoxEU'
-    url: 'https://voxeu.org/article/revisiting-rise-italian-fascism'
-  - icon_pack: fas
-    icon: bullhorn
-    name: 'Marginal Revolution'
-    url: 'https://marginalrevolution.com/marginalrevolution/2020/10/the-roots-of-fascism-in-italy-namely-communism.html'
-  - icon_pack: fas
-    icon: bullhorn
-    name: 'The Economist'
-    url: 'https://www.economist.com/finance-and-economics/2021/01/21/what-is-the-link-between-economic-crises-and-political-ruptures'
-  - icon_pack: fas
-    icon: podcast
-    name: 'A Correction Team Podcast'
-    url: 'https://www.acorrectionpodcast.com/phonyeconomy'
+
 
 ---
 
 ## Abstract
 
-The recent ascent of right-wing populist movements in many countries has rekindled interest in understanding the causes of the rise of Fascism in
-inter-war years. In this paper, we argue that there was a strong link
-between the surge of support for the Socialist Party after World War I and
-the subsequent emergence of Fascism in Italy. We first develop a source of
-variation in Socialist support across Italian municipalities in the 1919
-election based on war casualties from the area. We show that these
-casualties are unrelated to a battery of political, economic and social
-variables before the war and had a major impact on Socialist support (partly
-because the Socialists were the main anti-war political movement). Our main
-result is that this boost to Socialist support (that is 'exogenous' to the prior political leaning of the municipality) led to greater local Fascist activity as measured by local party branches and Fascist political violence (squadrismo), and to significantly larger vote share of the Fascist Party in the 1924 election. We document that the increase in the vote share of the Fascist Party was not
-at the expense of the Socialist Party and instead came from right-wing
-parties, thus supporting our interpretation that center-right and right-wing
-voters coalesced around the Fascist Party because of the 'red scare'. We also show that the veterans did not consistently support the Fascist Party and there is no evidence for greater nationalist sentiment in areas with more casualties. We provide evidence that landowner associations and greater presence of local elites played an important role in the rise of Fascism. Finally, we find greater likelihood of Jewish deportations in 1943-45 and lower vote share for Christian Democrats after WWII in areas with greater early Fascist activity.
+The recent ascent of right-wing populist movements in many countries has rekindled interest in understanding the causes of the rise of Fascism in inter-war years. In this paper, we argue that there was a strong link between the surge of support for the Socialist Party after World War I (WWI) and the subsequent emergence of Fascism in Italy. We first develop a source of variation in socialist support across Italian municipalities in the 1919 election based on war casualties from the area. We show that these casualties are unrelated to a battery of political, economic and social variables before the war and had a major impact on socialist support (partly because the Socialists were the main anti-war political movement). Our main result is that this boost to socialist support (that is “exogenous” to the prior political leaning of the municipality) led to greater local fascist activity as measured by local party branches and fascist political violence (squadrismo), and to significantly larger vote share of the Fascist Party in the 1921 and 1924 elections. We also provide evidence that landowner associations and greater presence of local elites played an important role in the rise of Fascism. Finally, we find greater likelihood of Jewish deportations in 1943-45 and lower vote share for Christian Democrats after World War II in areas with greater early fascist activity.
