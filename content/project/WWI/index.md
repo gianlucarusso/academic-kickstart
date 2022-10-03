@@ -1,7 +1,7 @@
 ---
-title: 'War, Socialism and the Rise of Fascism: An Empirical Exploration (2021)'
+title: 'War, Socialism and the Rise of Fascism: An Empirical Exploration (2022)'
 subtitle: <i class="far  fa-file-pdf"></i> [Link to NBER Working Paper](https://gianlucarusso.github.io/w27854.pdf)
-summary: <b> Accepted at _Quarterly Journal of Economics_ <br> <i class="far  fa-file-pdf"></i> [Link to NBER Working Paper](https://gianlucarusso.github.io/w27854.pdf)
+summary: <b> _The Quarterly Journal of Economics, Volume 137, Issue 2, May 2022, Pages 1233-1296_ <br> <i class="far  fa-file-pdf"></i> [Link to Published Version](https://academic.oup.com/qje/article/137/2/1233/6513426) <i class="far  fa-file-pdf"></i>  [Link to NBER Working Paper](https://gianlucarusso.github.io/w27854.pdf) 
 authors:
 - Joint with [Daron Acemoglu](https://economics.mit.edu/faculty/acemoglu), [Giuseppe De Feo](https://www2.le.ac.uk/departments/business/people/academic/giuseppe-de-feo) and [Giacomo De Luca](https://sites.google.com/a/york.ac.uk/deluca/)
 
