@@ -1,8 +1,8 @@
 ---
 title: 'Media and Assimilation: Evidence from the Golden Age of Radio (2021)'
-subtitle:   (Under Revision)
+subtitle: New Draft Coming Soon
 #<i class="far  fa-file-pdf"></i> [Link to Working Paper](https://gianlucarusso.github.io/gianlucarusso_JMP.pdf) <br>
-summary:  (Under Revision)
+summary:  New Draft Coming Soon
 #  <i class="far  fa-file-pdf"></i> [Link to Working Paper](https://gianlucarusso.github.io/gianlucarusso_JMP.pdf) (Under Revision)
 
 authors:

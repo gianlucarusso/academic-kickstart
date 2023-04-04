@@ -19,12 +19,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Postdoc at Pompeu Fabra and the Barcelona GSE working on  Political Economy and Economic History
+bio: I am a Postdoc at Pompeu Fabra and the Barcelona GSE working on Political Economy, Economic History and Development Economics
 
 interests:
 - Political Economy
 - Economic History
-- Applied Microeconomics
+- Development Economics
 
 education:
   courses:
