@@ -15,11 +15,11 @@ role: "Postdoctoral Fellow"
 
 # Organizations/Affiliations
 organizations:
-- name: "Universitat Pompeu Fabra and Barcelona GSE"
+- name: "Autonoma University of Barcelona and Barcelona School of Economics"
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Postdoc at Pompeu Fabra and the Barcelona GSE working on Political Economy, Economic History and Development Economics
+bio: I am a Postdoc at Autonoma University of Barcelona and the Barcelona School of Economics. I work on Political Economy, Economic History and Development Economics
 
 interests:
 - Political Economy
@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:gianluca.russo@upf.edu'
+  link: 'mailto:russo.gianluca.eco@gmail.edu'
 
 # - icon: google-scholar
 #   icon_pack: ai
@@ -76,6 +76,6 @@ email: ""
 # - Researchers
 # - Visitors
 ---
-Welcome to my website! I am a postdoctoral fellow at Universitat Pompeu Fabra and Barcelona GSE working with [Maria Petrova](https://sites.google.com/site/mariapetrovaphd/) under her ERC grant EXTREME *"The Rise and Fall of Populism and Extremism"*.
+Welcome to my website! I am a Postdoc at Autonoma University of Barcelona and the Barcelona School of Economics. I work on Political Economy, Economic History and Development Economics
 
 I hold a PhD in Economics from Boston University where I graduated in May 2020.

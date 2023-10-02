@@ -99,20 +99,20 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "gianluca.russo@upf.edu"
+email = "russo.gianluca.eco@gmail.com"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-#address = {street = "25-27 Ramon Trias Fargas", city = "Barcelona", region = "Catalunya", postcode = "08027", country = "Spain", country_code = "ES"}
-address = {street = "25-27 Carrer de Ramon Trias Fargas", city = "Barcelona", postcode = "08005", country = "Spain", country_code = "ES"}
+#address = {street = "", city = "Barcelona", region = "Catalunya", postcode = "08005", country = "Spain", country_code = "ES"}
+address = {street = "", city = "Barcelona", postcode = "08005", country = "Spain", country_code = "ES"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 #coordinates = {latitude = "41.379189", longitude = "2.179636"}
 
 # Directions for visitors to locate you.
-directions = "Office 24.530."
+directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
