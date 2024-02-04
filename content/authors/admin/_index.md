@@ -45,11 +45,11 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:russo.gianluca.eco@gmail.edu'
+  link: 'mailto:russo.gianluca.eco@gmail.com'
 
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/
 
 - icon: github
   icon_pack: fab
