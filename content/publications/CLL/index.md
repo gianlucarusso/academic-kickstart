@@ -1,10 +1,9 @@
 ---
 title: 'Regulating Child Labor: Evidence from the US Progressive Era (2020)'
-subtitle: <i class="far  fa-file-pdf"></i> [Link to Working Paper](https://gianlucarusso.github.io/cll_draft_may20.pdf) <hr>
-# In this paper, we show that US child labor laws and compulsory schooling laws did reduce child labor rates
-summary: <i class="far  fa-file-pdf"></i> [Link to Working Paper](https://gianlucarusso.github.io/cll_draft_may20.pdf) <br>
+subtitle: <i class="far  fa-file-pdf"></i> [Link to Working Paper](https://gianlucarusso.github.io/cll_draft_may20.pdf) <br> Joint with James Feigenbaum
+summary: Joint with James Feigenbaum <br> <i class="far  fa-file-pdf"></i> [Link to Working Paper](https://gianlucarusso.github.io/cll_draft_may20.pdf) <br>
 authors:
-- Joint with [James Feigenbaum](https://jamesfeigenbaum.github.io)
+- 
 #tags:
 ##- Working Paper
 #- American Economic History

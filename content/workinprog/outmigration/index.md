@@ -1,15 +1,11 @@
 ---
 title: 'Outmigration and Economic Development: Evidence from the Italian Mass Migration'
-
-
+subtitle: Joint with Nicola Fontana, Marco Manacorda and Marco Tabellini
+summary: Joint with Nicola Fontana, Marco Manacorda and Marco Tabellini
 authors:
-- Joint with [Nicola Fontana](https://sites.google.com/view/nicola-fontana/home?authuser=0), [Marco Manacorda](https://sites.google.com/site/marcomanacorda/home) and [Marco Tabellini](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1060330) <br>
-
 date: "2020-12-30"
 
-
 ---
-<!---
 ## Abstract
 
 Does emigration affect economic development? We study this question in the context of the Italian mass emigration between 1884 and 1913, when twelve million Italians left the country.

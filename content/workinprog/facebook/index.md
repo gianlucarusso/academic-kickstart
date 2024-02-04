@@ -1,19 +1,15 @@
 ---
 title: 'Socializing Alone: How Online Homophily Has Undermined Social Cohesion in the US'
-subtitle:
-summary:
-
+subtitle: Joint with Ruben Enikolopov, Maria Petrova and David Yanagizawa-Drott
+summary: Joint with Ruben Enikolopov, Maria Petrova and David Yanagizawa-Drott
 authors:
-- Joint with [Ruben Enikolopov](https://sites.google.com/site/rubenenikolopov/), [Maria Petrova](https://sites.google.com/site/mariapetrovaphd/) and [David Yanagizawa-Drott](https://yanagizawadrott.com) <br>
+- 
 
 date: "2021-02-01"
 
 
 ---
-<!--- 
+
 ## Abstract
 
-Does emigration affect economic development? We study this question in the context of the Italian mass emigration between 1884 and 1913, when twelve million Italians left the country.
-We assemble a unique dataset at the municipality level, linking cumulative emigration rates to a number of indicators of economic development throughout the twentieth century.
-Exploiting variation in the availability of information about the potential gains from migration before the start of mass migration, we construct an instrumental variable for the total emigration rate.
-Results indicate that while instrumented cumulative emigration was balanced on population before the start of mass emigration, it had a negative, large, and highly persistent effect on short and long run population. Historical mass emigration also reduced educational attainment, income per capita and other proxies of economic development in the long run. Further, we show that emigration favored the expansion of the agricultural sector, at the expense of manufacturing. We speculate that selective emigration was a key mechanism behind our results.
+Online social networks have changed how people interact across large distances. We examine the long-run effect of a key feature of these networks - online homophily - on interpersonal interactions in local communities. Using Facebook data, we measure online homophily across counties in the United States. To identify effects, we exploit a conflict between Facebook and Google in the early expansion phase of Facebook, which induced persistent variation in online homophily across counties. Using various measures of both online and offline behavior, we find evidence that local social interactions have been affected. In particular, homophilic connections made people use Facebook more often but socialize less offline, as measured through bar, restaurant, and live sports events visits. Individuals have also become less connected across income strata. Political opinions within counties became more diverse, with a lowered probability that two voters in a county support the same political party. Overall, our results indicate that when a natural demand for connecting with socially similar people is met by the supply of a 'death-of-distance' technology, it comes at the cost of short-distance social cohesion. 
