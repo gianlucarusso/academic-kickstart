@@ -38,9 +38,10 @@ links:
     url: 'https://gianlucarusso.github.io/radioappendix_april24.pdf'
 ---
 
+
 ## Abstract
 
-The advent of the radio networks in the early twentieth century marked the inception
+<p align="justify"> The advent of the radio networks in the early twentieth century marked the inception
 of the first national media platform in US history. This development coincided
 with the conclusion of the Age of Mass Migration, a historical period characterized by
 record-high diversity within the US society. How did the sudden rise of national radio
