@@ -1,9 +1,7 @@
 ---
-title: 'Media and Assimilation: Evidence from the Golden Age of Radio (2021)'
-subtitle: New Draft Coming Soon
-#<i class="far  fa-file-pdf"></i> [Link to Working Paper](https://gianlucarusso.github.io/gianlucarusso_JMP.pdf) <br>
-summary:  New Draft Coming Soon
-#  <i class="far  fa-file-pdf"></i> [Link to Working Paper](https://gianlucarusso.github.io/gianlucarusso_JMP.pdf) (Under Revision)
+title: 'Media and Assimilation: Evidence from the Golden Age of Radio (2024)'
+subtitle: <i class="far  fa-file-pdf"></i> [Link to Working Paper](https://gianlucarusso.github.io/radio_draft_apr24.pdf) <br>
+summary:  <i class="far  fa-file-pdf"></i> [Link to Working Paper](https://gianlucarusso.github.io/radio_draft_apr24.pdf)
 
 authors:
 # - admin
@@ -30,18 +28,32 @@ image:
 projects: []
 
 links:
-  #- icon_pack: fas
-  #  icon: file-pdf
-  #  name: 'Working Paper'
-  #  url: 'https://gianlucarusso.github.io/gianlucarusso_JMP.pdf'
+  # - icon_pack: fas
+  #   icon: file-pdf
+  #   name: 'Working Paper'
+  #   url: 'https://gianlucarusso.github.io/radio_draft_apr24.pdf'
   - icon_pack: fas
     icon: broadcast-tower
     name: 'Radio Appendix'
-    url: 'https://gianlucarusso.github.io/gianlucarusso_radio_appendix.pdf'
+    url: 'https://gianlucarusso.github.io/radioappendix_april24.pdf'
 ---
 
 ## Abstract
 
-In this paper, I argue that exposure to mainstream mass media facilitates immigrants' assimilation. I exploit the rise and expansion of radio broadcasting in the United States after the Age of Mass Migration ended to identify the effect of radio exposure on immigrants' assimilation.
-I reconstruct exogenous exposure to radio networks using a novel propagation model suitable to AM radio, the only radio technology available at the time.
-Exploiting the US full count census, I find that radio networks had a strong effect on immigrants' assimilation. Immigrants exposed to radio networks exerted higher effort to assimilate by naming their children with less distinctively foreign names and by becoming US citizens more often. Exposure to US radio networks also increased the likelihood of marrying a US citizen from US-born parents. Using names from baseball players, I show that aspiration might have been a key mechanism to explain why radio promoted assimilation. Immigrant households named their children exclusively after players that performed particularly well during the season, suggesting they were 'naming for success.'
+The advent of the radio networks in the early twentieth century marked the inception
+of the first national media platform in US history. This development coincided
+with the conclusion of the Age of Mass Migration, a historical period characterized by
+record-high diversity within the US society. How did the sudden rise of national radio
+networks affect the assimilation of millions of immigrants in the US? I answer this
+question by building quasi-random variation in the initial expansion of radio networks
+coverage. Through the application of a difference-in-difference design and leveraging
+evidence from diverse samples, I document that higher exposure to radio networks
+facilitated immigrant assimilation across various outcomes, including higher rates of
+intermarriage with natives, increased naturalization, and a greater propensity to adopt
+names that sounded less foreign. Additionally, I find that exposure to radio networks
+led to enhanced English proficiency among recently arrived immigrants. I argue that a
+key channel of assimilation was through the impact of role models on the media. Using
+data on baseball, I show that immigrants perceived baseball players as media role
+models of assimilation. Immigrant households were more likely to name their children
+after baseball players who shared similar ancestral origins to them or who achieved
+notable success during a season.
