@@ -15,16 +15,16 @@ role: "Postdoctoral Fellow"
 
 # Organizations/Affiliations
 organizations:
-- name: "Autonoma University of Barcelona and Barcelona School of Economics"
+- name: "Barcelona School of Economics"
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Postdoc at Autonoma University of Barcelona and the Barcelona School of Economics. I work on Political Economy, Economic History and Development Economics
+bio: I am a Postdoc at the Barcelona School of Economics. I work on Political Economy, Development Economics and Economic History
 
 interests:
 - Political Economy
-- Economic History
 - Development Economics
+- Economic History
 
 education:
   courses:
@@ -32,10 +32,10 @@ education:
     institution: Boston University
     year: 2020
   - course: MSC Economics
-    institution: Universita di Tor Vergata
+    institution: University of Tor Vergata
     year: 2014
   - course: BSc in Political Science
-    institution: Universita di Roma Tre
+    institution: University of Roma Tre
     year: 2012
 
 # Social/Academic Networking
@@ -49,19 +49,19 @@ social:
 
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/
+  link: https://scholar.google.com/citations?user=SHHqM4EAAAAJ&hl=en
 
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gianlucarusso
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/gianlucarusso
 
 # - icon: skype
 #   icon_pack: fab
 #   link: gianluca.prs
 
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GianlucaRussog
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GianlucaRussog
 
 - icon: cv
   icon_pack: ai
@@ -76,6 +76,4 @@ email: ""
 # - Researchers
 # - Visitors
 ---
-Welcome to my website! I am a Postdoc at Autonoma University of Barcelona and the Barcelona School of Economics. I work on Political Economy, Economic History and Development Economics
-
-I hold a PhD in Economics from Boston University where I graduated in May 2020.
+Welcome to my website! I am a Postdoc at the Barcelona School of Economics. I work on Political Economy, Development Economics and Economic History. I hold a PhD in Economics from Boston University where I graduated in May 2020.
