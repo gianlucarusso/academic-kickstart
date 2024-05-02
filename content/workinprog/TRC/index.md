@@ -1,8 +1,7 @@
 ---
 title: 'Nation Building in Post-Conflict Settings: Evidence from South Africa'
-subtitle: Joint with Thomas Gautier and Daniela Horta-Saenz <br> Funded by UNU WIDER and CEPR-STEG SGR 
-summary: Joint with Thomas Gautier and Daniela Horta-Saenz <br> Funded by UNU WIDER and CEPR-STEG SGR 
-authors:
+subtitle: Joint with Thomas Gautier and Daniela Horta-Saenz <br> Funded by UNU WIDER and CEPR-STEG SRG. This project has been granted access to anonymised tax data from the South African National Treasury
+summary: Joint with Thomas Gautier and Daniela Horta-Saenz <br> Funded by UNU WIDER and CEPR-STEG SRG. This project has been granted access to anonymised tax data from the South African National Treasury
 
 date: "2021-01-01"
 

@@ -1,7 +1,7 @@
 ---
 title: 'Media and Assimilation: Evidence from the Golden Age of Radio (2024)'
-subtitle: <i class="far  fa-file-pdf"></i> [Link to Working Paper](https://gianlucarusso.github.io/radio_draft_apr24.pdf) <br>
-summary:  <i class="far  fa-file-pdf"></i> [Link to Working Paper](https://gianlucarusso.github.io/radio_draft_apr24.pdf)
+subtitle: <i class="far  fa-file-pdf"></i> [Link to Working Paper](https://gianlucarusso.github.io/radio_draft_apr24.pdf) <i class="far  fa-file-pdf"></i> [SSRN Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4813824) <br> 
+summary:  <i class="far  fa-file-pdf"></i> [Link to Working Paper](https://gianlucarusso.github.io/radio_draft_apr24.pdf) <i class="far  fa-file-pdf"></i> [SSRN Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4813824) <i class="fas  fa-broadcast-tower"></i> [Radio Appendix](https://gianlucarusso.github.io/radioappendix_april24.pdf)
 
 authors:
 # - admin
