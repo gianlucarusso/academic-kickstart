@@ -1,8 +1,8 @@
 ---
 title: 'War, Socialism and the Rise of Fascism: An Empirical Exploration (2022)'
-subtitle: <i class="far  fa-file-pdf"></i> [Link to NBER Working Paper](https://gianlucarusso.github.io/w27854.pdf) <i class="far  fa-file-pdf"></i> [Link to Published Version](https://academic.oup.com/qje/article/137/2/1233/6513426) <br> Joint with Daron Acemoglu, Giuseppe De Feo and Giacomo De Luca
+subtitle: <i class="far  fa-file-pdf"></i> [NBER Working Paper](https://gianlucarusso.github.io/w27854.pdf) <i class="far  fa-file-pdf"></i> [Published Version](https://academic.oup.com/qje/article/137/2/1233/6513426) <br> Joint with Daron Acemoglu, Giuseppe De Feo and Giacomo De Luca
 
-summary: <b> _The Quarterly Journal of Economics, Volume 137, Issue 2, May 2022, Pages 1233-1296_  <br> Joint with Daron Acemoglu, Giuseppe De Feo and Giacomo De Luca <br> <i class="far  fa-file-pdf"></i> [Link to Published Version](https://academic.oup.com/qje/article/137/2/1233/6513426) <i class="far  fa-file-pdf"></i>  [Link to NBER Working Paper](https://gianlucarusso.github.io/w27854.pdf) 
+summary: <b> _The Quarterly Journal of Economics, Volume 137, Issue 2, May 2022, Pages 1233-1296_  <br> Joint with Daron Acemoglu, Giuseppe De Feo and Giacomo De Luca <br> <i class="far  fa-file-pdf"></i> [Published Version](https://academic.oup.com/qje/article/137/2/1233/6513426) <i class="far  fa-file-pdf"></i>  [NBER Working Paper](https://gianlucarusso.github.io/w27854.pdf) 
 authors:
 
 links:

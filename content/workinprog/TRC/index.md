@@ -1,9 +1,28 @@
 ---
-title: 'Nation Building in Post-Conflict Settings: Evidence from South Africa'
-subtitle: Joint with Thomas Gautier and Daniela Horta-Saenz <br> Funded by UNU WIDER and CEPR-STEG SRG. This project has been granted access to anonymised tax data from the South African National Treasury
-summary: Joint with Thomas Gautier and Daniela Horta-Saenz <br> Funded by UNU WIDER and CEPR-STEG SRG. This project has been granted access to anonymised tax data from the South African National Treasury
+title: 'Building States Through Restorative Justice'
+subtitle: Joint with Thomas Gautier and Daniela Horta-Saenz
+summary: Joint with Thomas Gautier and Daniela Horta-Saenz
+authors:
+# (2024)
+# subtitle: <i class="far  fa-file-pdf"></i> [Working Paper](https://gianlucarusso.github.io/.pdf) <br> Joint with Thomas Gautier and Daniela Horta-Saenz
+# summary: <i class="far  fa-file-pdf"></i> [Working Paper](https://gianlucarusso.github.io/.pdf) <br> Joint with Thomas Gautier and Daniela Horta-Saenz
+# authors:
+-
+#<br> Funded by UNU WIDER and CEPR-STEG SRG. This project has been granted access to anonymised tax data from the South African National Treasury.
 
-date: "2021-01-01"
+date: "2024-01-01"
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+image:
+  placement: 1
+  caption: ''
+  focal_point: ""
+  preview_only: false
 
 ---
 
