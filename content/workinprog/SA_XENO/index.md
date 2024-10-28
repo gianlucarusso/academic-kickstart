@@ -1,11 +1,11 @@
 ---
 title: 'Diversity and Conflict in New Democracies'
-subtitle: Joint with Silvia Farina, Thomas Gautier and Daniela Horta Saenz
-summary:  Joint with Silvia Farina, Thomas Gautier and Daniela Horta Saenz
+subtitle: Joint with Silvia Farina, Thomas Gautier and Daniela Horta-Saenz
+summary:  Joint with Silvia Farina, Thomas Gautier and Daniela Horta-Saenz
 authors:
 -
 
-date: "2023-01-01"
+date: "2024-09-15"
 featured: false
 draft: false
 

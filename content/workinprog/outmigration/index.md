@@ -3,7 +3,7 @@ title: 'Outmigration and Economic Development: Evidence from the Italian Mass Mi
 subtitle: Joint with Nicola Fontana, Marco Manacorda and Marco Tabellini
 summary: Joint with Nicola Fontana, Marco Manacorda and Marco Tabellini
 authors:
-date: "2020-12-30"
+date: "2024-10-01"
 
 ---
 ## Abstract
