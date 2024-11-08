@@ -1,7 +1,7 @@
 ---
 title: 'Building States Through Restorative Justice (2024)'
-subtitle: <i class="far  fa-file-pdf"></i> [Working Paper](https://gianlucarusso.github.io/TRC_GHR_draft.pdf) <br> Joint with Thomas Gautier and Daniela Horta-Saenz
-summary: _Funded by STEG-CEPR and UNU-WIDER_ <br> Joint with Thomas Gautier and Daniela Horta-Saenz <br> <i class="far  fa-file-pdf"></i> [Working Paper](https://gianlucarusso.github.io/TRC_GHR_draft.pdf) 
+subtitle: <i class="far  fa-file-pdf"></i> [Working Paper](https://gianlucarusso.github.io/TRC_GHR_Oct24.pdf) <br> Joint with Thomas Gautier and Daniela Horta-Saenz
+summary: _Funded by STEG-CEPR and UNU-WIDER_ <br> Joint with Thomas Gautier and Daniela Horta-Saenz <br> <i class="far  fa-file-pdf"></i> [Working Paper](https://gianlucarusso.github.io/TRC_GHR_Oct24.pdf) 
 authors:
 -
 #<br> Funded by UNU WIDER and CEPR-STEG SRG. This project has been granted access to anonymised tax data from the South African National Treasury.
