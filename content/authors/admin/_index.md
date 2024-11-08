@@ -19,7 +19,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Postdoc at the Barcelona School of Economics. I work on Political Economy, Development Economics and Economic History
+bio: I am a Postdoc at the Barcelona School of Economics. I work on Political Economy, Development Economics and Economic History.
 
 interests:
 - Political Economy
@@ -76,4 +76,5 @@ email: ""
 # - Researchers
 # - Visitors
 ---
-Welcome to my website! I am a Postdoc at the Barcelona School of Economics. I work on Political Economy, Development Economics and Economic History. I hold a PhD in Economics from Boston University where I graduated in May 2020.
+Welcome to my website! I am a Postdoc at the Barcelona School of Economics. I am currently on the job market, find a copy of my [job market paper here](https://gianlucarusso.github.io/TRC_GHR_Oct24.pdf).
+
