@@ -76,5 +76,4 @@ email: ""
 # - Researchers
 # - Visitors
 ---
-Welcome to my website! I am a Postdoc at the Barcelona School of Economics. I am currently on the job market, find a copy of my [job market paper here](https://gianlucarusso.github.io/TRC_GHR_Oct24.pdf).
-
+Welcome to my website! I am a Postdoc at the Barcelona School of Economics.
