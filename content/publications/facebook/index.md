@@ -1,7 +1,8 @@
 ---
-title: 'Socializing Alone: How Online Homophily Has Undermined Social Cohesion in the US (2024)'
+title: 'Socializing Alone: How Online Homophily Has Undermined Social Cohesion in the US (2025)'
 subtitle: <i class="far  fa-file-pdf"></i> [Working Paper](https://gianlucarusso.github.io/FACEBOOK_05sept2024.pdf) <i class="far  fa-file-pdf"></i> [SSRN Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4738801) <br> Joint with Ruben Enikolopov, Maria Petrova and David Yanagizawa-Drott
-summary: _[Submitted]_ <br> Joint with Ruben Enikolopov, Maria Petrova and David Yanagizawa-Drott <br> <i class="far  fa-file-pdf"></i> [Working Paper](https://gianlucarusso.github.io/FACEBOOK_05sept2024.pdf) <i class="far  fa-file-pdf"></i> [SSRN Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4738801) <br>
+#_[Submitted]_ <br> Joint with Ruben Enikolopov, Maria Petrova and David Yanagizawa-Drott <br> <i class="far  
+summary: Joint with Ruben Enikolopov, Maria Petrova and David Yanagizawa-Drott <br> <i class="far  fa-file-pdf"></i> [Working Paper](https://gianlucarusso.github.io/FACEBOOK_05sept2024.pdf) <i class="far  fa-file-pdf"></i> [SSRN Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4738801) <br>
 authors:
 - 
 

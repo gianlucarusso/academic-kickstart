@@ -1,21 +1,21 @@
 ---
-title: 'CAS EC 204 Empirical Economics'
+title: 'International Political Economy'
 subtitle: ''
-summary: Instructor for the second level course in the introductory level sequence of empirical economics.
+summary: Undergraduate course in International Political Economy.
 
 featured: false
 draft: false
 
-date: "2019-08-08"
+date: "2025-08-08"
 
 links:
   - icon_pack: fas
     icon: file-pdf
     name: 'Syllabus'
-    url: 'https://gianlucarusso.github.io/Syll_EC204_SMR2_2019.pdf'
+    url: 'https://gianlucarusso.github.io/syllabus_cunef_IPE_fall2025.pdf'
 ---
 
-I have designed and taught EC 204 at Boston University as an Instructor during summer 2018 and summer 2019. The class focuses on the basics of linear regression analysis and hypothesis testing.
+This is a third year undergraduate class at Cunef on International Political Economy. 
 
 
 

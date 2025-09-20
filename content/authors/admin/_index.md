@@ -10,16 +10,16 @@ authors:
 superuser: true
 
 # Role/position
-role: "Postdoctoral Fellow"
+role: "Lecturer"
 
 
 # Organizations/Affiliations
 organizations:
-- name: "Barcelona School of Economics"
+- name: "Cunef University"
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Postdoc at the Barcelona School of Economics. I work on Political Economy, Development Economics and Economic History.
+bio: I am a Lecturer at Cunef University. I work on Political Economy, Development Economics and Economic History.
 
 interests:
 - Political Economy
@@ -76,4 +76,4 @@ email: ""
 # - Researchers
 # - Visitors
 ---
-Welcome to my website! I am a Postdoc at the Barcelona School of Economics.
+Welcome to my website! I am a Lecturer in Economics at Cunef University.

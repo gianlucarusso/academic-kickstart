@@ -1,10 +1,15 @@
 ---
 title: 'Outmigration and Economic Development: Evidence from the Italian Mass Migration'
-subtitle: Joint with Nicola Fontana, Marco Manacorda and Marco Tabellini
-summary: Joint with Nicola Fontana, Marco Manacorda and Marco Tabellini
+subtitle: <i class="far  fa-file-pdf"></i> [Working Paper](https://gianlucarusso.github.io/Italian_outmigration.pdf) <br> Joint with Nicola Fontana, Marco Manacorda and Marco Tabellini
+summary: Joint with Nicola Fontana, Marco Manacorda and Marco Tabellini <br> <i class="far  fa-file-pdf"></i> [Working Paper](https://gianlucarusso.github.io/Italian_outmigration.pdf) 
 authors:
-date: "2024-10-01"
+date: "2024-08-01"
 
+image:
+  placement: 1
+  caption: ''
+  focal_point: ""
+  preview_only: false
 ---
 ## Abstract
 

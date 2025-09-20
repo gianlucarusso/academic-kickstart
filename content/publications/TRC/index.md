@@ -1,5 +1,5 @@
 ---
-title: 'Building States Through Public Truth-Telling (2024)'
+title: 'The Trade-Offs of Nation-Building through Transitional Justice (2025)'
 subtitle: <i class="far  fa-file-pdf"></i> [Working Paper](https://gianlucarusso.github.io/TRC_GHR_Oct24.pdf) <br> Joint with Thomas Gautier and Daniela Horta-Saenz
 summary: _Funded by STEG-CEPR and UNU-WIDER_ <br> Joint with Thomas Gautier and Daniela Horta-Saenz <br> <i class="far  fa-file-pdf"></i> [Working Paper](https://gianlucarusso.github.io/TRC_GHR_Oct24.pdf) 
 authors:
