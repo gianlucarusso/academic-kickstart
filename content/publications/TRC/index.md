@@ -1,7 +1,7 @@
 ---
-title: 'The Trade-Offs of Nation-Building through Transitional Justice (2025)'
-subtitle: <i class="far  fa-file-pdf"></i> [Working Paper](https://gianlucarusso.github.io/TRC_GHR_Oct24.pdf) <br> Joint with Thomas Gautier and Daniela Horta-Saenz
-summary: _Funded by STEG-CEPR and UNU-WIDER_ <br> Joint with Thomas Gautier and Daniela Horta-Saenz <br> <i class="far  fa-file-pdf"></i> [Working Paper](https://gianlucarusso.github.io/TRC_GHR_Oct24.pdf) 
+title: 'Nation-Building through Transitional Justice (2025)'
+subtitle: <i class="far  fa-file-pdf"></i> [Working Paper](https://gianlucarusso.github.io/TRC_GHR.pdf) <br> Joint with Thomas Gautier and Daniela Horta-Saenz
+summary: _Funded by STEG-CEPR and UNU-WIDER_ <br> Joint with Thomas Gautier and Daniela Horta-Saenz <br> <i class="far  fa-file-pdf"></i> [Working Paper](https://gianlucarusso.github.io/TRC_GHR.pdf) 
 authors:
 -
 #<br> Funded by UNU WIDER and CEPR-STEG SRG. This project has been granted access to anonymised tax data from the South African National Treasury.
@@ -24,5 +24,5 @@ image:
 
 ## Abstract
 
-<p align="justify">  How do states rebuild after decades of institutionalized oppression, deep societal
-trauma, and intergroup violence? We study the effect of one of the most iconic examples of transitional justice, the South African Truth and Reconciliation Commission (TRC), which attempted to rebuild South African society through public truth-telling. We reconstruct exposure to live broadcasting of the TRC across South African suburbs to generate quasi-exogenous variation in media coverage of the TRC hearings. We demonstrate that while the TRC fostered unity among Black South Africans, it also weakened interracial relations. In particular, we document increased segregation, lower interracial marriage rates, and reduced interracial trust. Additionally, we leverage administrative tax data to argue that the TRC hindered the implementation of affirmative action policies aimed at workplace integration. Finally, we suggest that these effects stem from Whites adjusting their beliefs about judicial bias: using daily variation in hearing content, we observe increased backlash among White South Africans whenever a White perpetrator is scrutinized by the court.
+<p align="justify">  How do societies rebuild after decades of institutionalized oppression, deep trauma, and intergroup violence? We study one of the most prominent cases of transitional justice---the South African Truth and Reconciliation Commission (TRC)---which sought to rebuild the nation by publicly documenting and broadcasting human rights violations committed under
+apartheid. Using quasi-exogenous variation in exposure to live TRC broadcasts across South African suburbs, we show that the TRC fostered unity among Black South Africans while weakening interracial relations. Specifically, exposure to TRC increased ingroup cohesion among Blacks, reflected in lower interethnic violence and stronger national identity, while heightening exclusionary identities among Whites. Over time, these effects shaped social contact: TRC exposure led to greater intra-Black spatial integration and interethnic marriages, but fewer interracial marriages and greater racial segregation. Using administrative tax data, we further show that the TRC reduced the efficiency of affirmative action policies designed to redress apartheid-era discrimination. Finally, content analysis of the hearings reveals that emotional resonance across ethnic lines---rather than information transmission---was the key mechanism behind the rise of Black nation-building.
