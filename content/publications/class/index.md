@@ -1,10 +1,19 @@
 ---
-title: 'The Legacy of the Reconquesta on Class Conflict (2025)'
+title: 'Inequality and Conflict: The Long-Run Legacy of the Reconquesta (2025)'
 subtitle: <i class="far  fa-file-pdf"></i> <br> Joint with Daniel Carrera, Stefano Falcone and Andrea Pop Catalisan
-summary: Joint with Daniel Carrera, Stefano Falcone and Andrea Pop Catalisan <br> <i class="far  fa-file-pdf"></i> Draft coming soon
-authors: 
--
-#<br> Funded by UNU WIDER and CEPR-STEG SRG. This project has been granted access to anonymised tax data from the South African National Treasury.
+
+
+summary: Joint with Daniel Carrera, Stefano Falcone and Andrea Pop Catalisan <br> <i class="far  fa-file-pdf"></i> Draft coming soon <br> [5 centims (CAT)](https://www.5centims.cat/desigualtat-i-conflicte-social-a-catalunya/)
+
+authors:
+  
+links:
+  - icon_pack: fas
+    icon: bullhorn
+    name: '5centims (CAT)'
+    url: 'https://www.5centims.cat/desigualtat-i-conflicte-social-a-catalunya/'
+
+
 
 date: "2024-04-01"
 featured: false

@@ -1,5 +1,5 @@
 ---
-title: 'Nation-Building through Transitional Justice (2025)'
+title: 'Nation-Building through Restorative Justice (2026)'
 subtitle: <i class="far  fa-file-pdf"></i> [Working Paper](https://gianlucarusso.github.io/TRC_GHR.pdf) <br> Joint with Thomas Gautier and Daniela Horta-Saenz
 summary: _Funded by STEG-CEPR and UNU-WIDER_ <br> Joint with Thomas Gautier and Daniela Horta-Saenz <br> <i class="far  fa-file-pdf"></i> [Working Paper](https://gianlucarusso.github.io/TRC_GHR.pdf) 
 authors:
@@ -24,5 +24,5 @@ image:
 
 ## Abstract
 
-<p align="justify">  How do societies rebuild after decades of institutionalized oppression, deep trauma, and intergroup violence? We study one of the most prominent cases of transitional justice---the South African Truth and Reconciliation Commission (TRC)---which sought to rebuild the nation by publicly documenting and broadcasting human rights violations committed under
-apartheid. Using quasi-exogenous variation in exposure to live TRC broadcasts across South African suburbs, we show that the TRC fostered unity among Black South Africans while weakening interracial relations. Specifically, exposure to TRC increased ingroup cohesion among Blacks, reflected in lower interethnic violence and stronger national identity, while heightening exclusionary identities among Whites. Over time, these effects shaped social contact: TRC exposure led to greater intra-Black spatial integration and interethnic marriages, but fewer interracial marriages and greater racial segregation. Using administrative tax data, we further show that the TRC reduced the efficiency of affirmative action policies designed to redress apartheid-era discrimination. Finally, content analysis of the hearings reveals that emotional resonance across ethnic lines---rather than information transmission---was the key mechanism behind the rise of Black nation-building.
+<p align="justify">  
+ How do societies rebuild after decades of institutionalized oppression and intergroup violence? We address this question by studying the South African Truth and Reconciliation Commission (TRC), which sought to rebuild the nation by publicly documenting human rights violations committed under apartheid. Using quasi-exogenous variation in exposure to live TRC broadcasts, we show that the TRC strengthened unity among Black South Africans, reducing interethnic violence and increasing national identification. At the same time, it weakened interracial relations, increasing segregation and reducing intermarriage. Content analysis of the hearings suggests that intra-Black reconciliation---driven by emotional resonance rather than informational updating---was the key mechanism behind Black unity. Finally, using administrative tax data, we show that these heightened racial divisions had negative downstream consequences: TRC exposure reduced the effectiveness of affirmative action policies aimed at redressing apartheid-era discrimination.
